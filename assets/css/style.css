@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-image: url(../images/folk-pattern-black.png);
+    background-repeat: repeat;
+}
+
+#jumbo {
+    height: 150px;
+}
+
+.crystals {
+    width: 180px;
+    height:180px;
+}
+
+.numbers {
+    margin: 20px 20px 20px 30px;
+}
