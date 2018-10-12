@@ -25,7 +25,7 @@ $(document).ready(function() {
     console.log(crystal2);
     console.log(crystal3);
     console.log(crystal4);
-    go()
+    // go()
 
     function reset() {
         $(".crystals", "#score").empty();
@@ -46,10 +46,10 @@ $(document).ready(function() {
         console.log(crystal3);
         console.log(crystal4);
         
-        go()
+        // go()
     }
 
-        function go() { 
+        // function go() { 
     
             $("#crystal1").on("click", function() {
                 
@@ -127,7 +127,7 @@ $(document).ready(function() {
 
             });
 
-        }
+        // }
 
 
 
